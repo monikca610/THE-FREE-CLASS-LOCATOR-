@@ -1,0 +1,6 @@
+{
+  "name": "Vibecraft: Free Class Locator & Floor Manager",
+  "description": "Smart 3D building map, live kick-out countdown timer, and floor manager for SRM Institute of Science and Technology, Tiruchirappalli Campus (SRM Trichy).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
